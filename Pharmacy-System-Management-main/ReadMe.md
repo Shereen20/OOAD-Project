@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for your Pharmacy Management System project:
+
 
 # Pharmacy Management System
 
@@ -32,11 +32,24 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 - **MySQL** - Relational database for storing data.
 - **Maven** - Build and dependency management tool.
 
+## Patterns and Principles used:
+**Patterns:**
+1. Singleton
+2. Factory
+3. Facade
+4. Adapter
+
+**Principles:**
+1. Single Responsibility
+2. Open Closed
+3. Interface Segregation
+4. Dependency Inversion
+
 ## Setup and Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BotJavadoc/Pharmacy-System-Management.git
+   git clone https://github.com/OOAD-Project/Pharmacy-System-Management-main.git
    cd pharmacy-management-system
    ```
 
@@ -58,28 +71,6 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 4. **Access the application:**
    - Open your web browser and go to `http://localhost:8080`.
   
-## Screen Shots
--Home Page
-
-![home page](https://github.com/user-attachments/assets/d3cdf63d-5d67-4c11-9f4e-7a0048aba886)
-
--Adding Stocks
-
-![adding stocks](https://github.com/user-attachments/assets/5d42bba2-0eab-4cc0-91c0-5a87b0885784)
-
--Genrating Bill
-
-![generating bill](https://github.com/user-attachments/assets/c5fb04ec-8646-4b87-8c43-f40657bc3c7b)
-
--Adding supplier
-
-![adding supplier](https://github.com/user-attachments/assets/51efa929-35b5-4fbf-a24c-f5007bee95c6)
-
--Contact Us page
-
-![contact us page](https://github.com/user-attachments/assets/beee714e-db69-40ac-89b4-8e6fa53b97f5)
-
-
 ## Usage
 
 - **Admin Dashboard:**
@@ -89,13 +80,4 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 - **Pharmacy Staff:**
   - Process sales and manage billing.
   - Track and reorder stock.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
-
-## Contact
-
-For any inquiries or support, please reach out at [abhishekabu0155@gmail.com](mailto:abhishekabu0155@gmail.com).
-```
 
